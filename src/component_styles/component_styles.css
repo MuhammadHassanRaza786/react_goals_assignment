@@ -1,0 +1,58 @@
+body{
+   
+    }
+.FirstGoal h1{
+        
+    background: linear-gradient(70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%);
+        color: black;
+       margin-left: 40px;
+        font-family: Arial;
+        margin:0,30,0,0 ;
+        border: solid;
+        border-radius: 10px;
+
+}
+.FirstGoal p{
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    margin-left: 100px;
+   
+}
+
+.SecondGoal h1{
+        
+    background: linear-gradient(70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%);
+    color: black;
+   margin-left: 40px;
+    font-family: "Courier New", Courier, monospace;
+    margin:0,30,0,0 ;
+    border: solid;
+    border-radius: 10px;
+
+}
+.SecondGoal p{
+color: rgb(0, 0, 0);
+font-family: "Courier New", Courier, monospace;
+margin-left: 100px;
+
+
+}
+
+.ThirdGoal h1{
+        
+    background: linear-gradient(70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%);
+    color: black;
+   margin-left: 40px;
+    font-family: Arial;
+    margin:0,30,0,0 ;
+    border: solid;
+    border-radius: 10px;
+
+}
+.ThirdGoal p{
+color: rgb(0, 0, 0);
+font-family: "Courier New", Courier, monospace;
+margin-left: 100px;
+
+}
+
